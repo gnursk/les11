@@ -1,0 +1,40 @@
+body{
+    background-color: darkgray;
+    color: darkgray
+}
+
+h1{
+    color: rgb(130, 236, 236);
+}
+p{
+    color: black;
+}
+
+.cheat {
+    background-color: lightskyblue;
+    color: darkblue;
+    border: 5px solid blue;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.cheat-rood {
+    background-color: red;
+    color: white;
+    border: 10px solid darkred;
+}
+
+.cheat-salmon {
+    background-color: lightsalmon;
+    color:darksalmon;
+    border: salmon;
+}
+
+.cheat-blue {
+    background-color: rgb(130, 236, 236);
+    color: rgb(56, 79, 79);
+    border: 5px solid rgb(69, 108, 108);
+    padding: 20px;
+    margin-bottom: 20px;
+
+}
